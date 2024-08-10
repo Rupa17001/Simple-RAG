@@ -1,0 +1,8 @@
+#  Ignore the directory named myenv
+myenv/
+
+# Ignore the specific file named redme k liye.txt
+redme k liye.txt
+
+# Ignore the specific file named pdf_upload - Copy.ipynb
+pdf_upload - Copy.ipynb
